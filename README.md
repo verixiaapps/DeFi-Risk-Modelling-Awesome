@@ -82,6 +82,6 @@ This repository is a compilation of DeFi cryptoeconomic research and risk modell
 - [Curve stablecoin simulation tool](https://github.com/xenophonlabs/crvUSDrisk)
 - [DELV agent-based simulation tool](https://github.com/delvtech/elf-simulations)
 - Uniswap v3 simulator [option 1](https://github.com/Bella-DeFinTech/uniswap-v3-simulator), [option 2](https://github.com/aloelabs/uniswap-simulator), [option 3](https://github.com/DefiLab-xyz/uniswap-v3-simulator)
-- [HostDeFi](https://hostdefi.com/scan) - Free A+–F token-safety scanner across Solana and 8 EVM chains (mint/freeze authority, liquidity depth, holder concentration). Keyless REST API.
+- [HostDeFi](https://hostdefi.com/scan) - Free A+–F token-safety scanner across Solana and 7 EVM chains (mint/freeze authority, liquidity depth, holder concentration). Keyless REST API.
 
 ## Other Resources
